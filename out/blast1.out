@@ -1,0 +1,20 @@
+___________________________
+Bit score: 69.3218
+Identities: 40
+Overlap: 67
+Query start: 723 end: 788
+Target ID: sp:CN165_HUMAN
+Target def: [Q86U02] RecName: Full=Putative uncharacterized protein encoded by LINC00596;
+Target start: 51 end: 117
+Sequence length: 117
+Sequence: ETASGFVAQTGVHWCNLGSLQPLPPGFKRFSCLSLPSSLDYRHAPPCLANFYIFSGDRVSPCWPDWS
+___________________________
+Bit score: 66.6254
+Identities: 34
+Overlap: 51
+Query start: 726 end: 775
+Target ID: sp:CP089_HUMAN
+Target def: [Q6UX73] RecName: Full=UPF0764 protein C16orf89; Flags: Precursor;
+Target start: 320 end: 370
+Sequence length: 402
+Sequence: SRSVAQAGVQWRNLGSLQPLPPGFKQFSCLILPSSWDYRSVPPYLANFYIF
