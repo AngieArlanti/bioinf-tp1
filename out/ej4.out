@@ -1,1 +1,201 @@
-Pattern: P53_RAT
+Pattern: TUMOR
+--------------------------------
+Definition: [P04637] RecName: Full=Cellular tumor antigen p53; AltName: Full=Antigen NY-CO-13; AltName: Full=Phosphoprotein p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_HUMAN
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P13481] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_CHLAE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P56424] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_MACMU
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P61260] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_MACFU
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P56423] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_MACFA
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q9TTA1] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_TUPBE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [O36006] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_MARMO
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q95330] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_RABIT
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q8SPZ3] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_DELLE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q9TUB2] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_PIG
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q9WUR6] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_CAVPO
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q00366] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_MESAU
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [O09185] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_CRIGR
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P51664] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_SHEEP
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P67939] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_BOVIN
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P67938] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_BOSIN
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P41685] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_FELCA
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P10361] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_RAT
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P02340] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_MOUSE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q29537] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_CANLF
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q64662] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53; Flags: Fragment;
+Accession: sp:P53_SPEBE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P79892] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53; Flags: Fragment;
+Accession: sp:P53_HORSE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q29480] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53; Flags: Fragment;
+Accession: sp:P53_EQUAS
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P10360] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_CHICK
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P25035] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_ONCMY
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q9W678] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_BARBU
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P07193] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_XENLA
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P79734] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_DANRE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [O93379] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_ICTPU
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [O57538] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_XIPHE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q92143] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_XIPMA
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q9XSK8] RecName: Full=Tumor protein p73; AltName: Full=p53-like transcription factor; AltName: Full=p53-related protein;
+Accession: sp:P73_CHLAE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [O15350] RecName: Full=Tumor protein p73; AltName: Full=p53-like transcription factor; AltName: Full=p53-related protein;
+Accession: sp:P73_HUMAN
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q9JJP2] RecName: Full=Tumor protein p73 {ECO:0000250|UniProtKB:O15350}; AltName: Full=p53-like transcription factor {ECO:0000250|UniProtKB:O15350}; AltName: Full=p53-related protein {ECO:0000250|UniProtKB:O15350};
+Accession: sp:P73_MOUSE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q9JJP6] RecName: Full=Tumor protein 63; Short=p63; AltName: Full=Keratinocyte transcription factor KET; AltName: Full=Transformation-related protein 63; Short=TP63; AltName: Full=Tumor protein p73-like; Short=p73L;
+Accession: sp:P63_RAT
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q9H3D4] RecName: Full=Tumor protein 63; Short=p63; AltName: Full=Chronic ulcerative stomatitis protein; Short=CUSP; AltName: Full=Keratinocyte transcription factor KET; AltName: Full=Transformation-related protein 63; Short=TP63; AltName: Full=Tumor protein p73-like; Short=p73L; AltName: Full=p40; AltName: Full=p51;
+Accession: sp:P63_HUMAN
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [O88898] RecName: Full=Tumor protein 63; Short=p63; AltName: Full=Transformation-related protein 63; Short=TP63; AltName: Full=Tumor protein p73-like; Short=p73L;
+Accession: sp:P63_MOUSE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [Q9W679] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_TETMU
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [P79820] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_ORYLA
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
+--------------------------------
+Definition: [O12946] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
+Accession: sp:P53_PLAFE
+Fasta sequence: 
+Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
