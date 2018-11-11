@@ -4,6 +4,7 @@ require 'bio'
 blast = Bio::Blast.remote('blastp', 'swissprot', '-e 0.0001 -m 7', 'genomenet')
 
 Dir.mkdir("out") unless File.exist?("out")
+Dir.mkdir("out/xml") unless File.exist?("out/xml")
 
 (1..6).each do |frame|
   ff = Bio::FlatFile.open(Bio::FastaFormat, "out/ej1.out#{frame}.fas")
