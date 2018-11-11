@@ -3,6 +3,8 @@ require 'bio'
 
 blast = Bio::Blast.remote('blastp', 'swissprot', '-e 0.0001 -m 7', 'genomenet')
 
+Dir.mkdir("out") unless File.exist?("out")
+
 (1..6).each do |frame|
   ff = Bio::FlatFile.open(Bio::FastaFormat, "out/ej1.out#{frame}.fas")
   File.open("out/blast#{frame}.out", 'w') do |f|
@@ -19,10 +21,9 @@ blast = Bio::Blast.remote('blastp', 'swissprot', '-e 0.0001 -m 7', 'genomenet')
         f.puts "Target start: #{hit.target_start} end: #{hit.target_end}"
         f.puts 'Sequence length: ' + hit.target_len.to_s
         f.puts 'Sequence: ' + hit.target_seq
-
-        File.open("out/xml/blast#{frame}.xml", 'w') do |x|
-          x.puts blast.output
-        end
+      end
+      File.open("out/xml/blast#{frame}.xml", 'w') do |x|
+        x.puts blast.output
       end
     end
   end

@@ -1,201 +1,135 @@
-Pattern: TUMOR
---------------------------------
-Definition: [P04637] RecName: Full=Cellular tumor antigen p53; AltName: Full=Antigen NY-CO-13; AltName: Full=Phosphoprotein p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_HUMAN
+Pattern: MAYS
+-----------------------------
+Definition: Zea mays globulin1 (glb1), mRNA >gi|168480|gb|M24845.1|MZEGLB1SA Maize embryo globulin S allele (7S-like) mRNA, complete cds
+Accession: NM_001112417
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P13481] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_CHLAE
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|162463478|ref|NM_001112417.1|
+-----------------------------
+Definition: Zea mays full-length cDNA clone ZM_BFc0048N07 mRNA, complete cds
+Accession: BT067442
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P56424] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_MACMU
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|224030526|gb|BT067442.1|
+-----------------------------
+Definition: Zea mays PCO085487 mRNA sequence
+Accession: AY103562
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P61260] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_MACFU
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|21206640|gb|AY103562.1|
+-----------------------------
+Definition: Zea mays clone Contig451 mRNA sequence
+Accession: BT016618
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P56423] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_MACFA
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|54651399|gb|BT016618.1|
+-----------------------------
+Definition: Zea mays Glb1-S gene for vicilin-like embryo storage protein
+Accession: X59084
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q9TTA1] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_TUPBE
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|22285|emb|X59084.1|
+-----------------------------
+Definition: Zea mays Glb1-L gene for vicilin-like embryo storage protein
+Accession: X59083
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [O36006] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_MARMO
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|22283|emb|X59083.1|
+-----------------------------
+Definition: Zea mays Glb1-0 gene for vicilin-like storage protein (truncated)
+Accession: X59085
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q95330] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_RABIT
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|22281|emb|X59085.1|
+-----------------------------
+Definition: Zea mays truncated globulin1 (Glb1) gene, Glb1-Hb allele, complete cds
+Accession: U28017
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q8SPZ3] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_DELLE
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|927238|gb|U28017.1|ZMU28017
+-----------------------------
+Definition: Zea mays clone 1380779 mRNA sequence
+Accession: EU953080
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q9TUB2] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_PIG
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|195606735|gb|EU953080.1|
+-----------------------------
+Definition: Zea mays isolate Ky21 globulin 1 gene, partial cds
+Accession: AF377690
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q9WUR6] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_CAVPO
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|14326292|gb|AF377690.1|
+-----------------------------
+Definition: Zea mays isolate W153R globulin 1 gene, partial cds
+Accession: AF377688
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q00366] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_MESAU
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|14326288|gb|AF377688.1|
+-----------------------------
+Definition: Zea mays cultivar line P1 globulin-1 gene, partial sequence
+Accession: DQ356514
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [O09185] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_CRIGR
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|85815884|gb|DQ356514.1|
+-----------------------------
+Definition: Zea mays isolate APC13 globulin 1 gene, partial cds
+Accession: AF377677
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P51664] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_SHEEP
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|14326266|gb|AF377677.1|
+-----------------------------
+Definition: Zea mays cultivar line Z25 globulin-1 gene, partial sequence
+Accession: DQ356538
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P67939] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_BOVIN
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|85815908|gb|DQ356538.1|
+-----------------------------
+Definition: Zea mays cultivar line P7 globulin-1 gene, partial sequence
+Accession: DQ356515
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P67938] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_BOSIN
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|85815885|gb|DQ356515.1|
+-----------------------------
+Definition: Zea mays cultivar line P11 globulin-1 gene, partial sequence
+Accession: DQ356516
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P41685] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_FELCA
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|85815886|gb|DQ356516.1|
+-----------------------------
+Definition: Zea mays cultivar line Y26 globulin-1 gene, partial sequence >gi|85815907|gb|DQ356537.1| Zea mays cultivar line Z20 globulin-1 gene, partial sequence
+Accession: DQ356531
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P10361] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_RAT
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|85815901|gb|DQ356531.1|
+-----------------------------
+Definition: Zea mays subsp. parviglumis isolate t1 globulin-1 (glb1) gene, partial cds
+Accession: EF539624
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P02340] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_MOUSE
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|154980337|gb|EF539624.1|
+-----------------------------
+Definition: Zea mays subsp. parviglumis isolate t3 globulin-1 (glb1) gene, partial cds >gi|154980345|gb|EF539628.1| Zea mays subsp. parviglumis isolate t3_c globulin-1 (glb1) gene, partial cds >gi|154980347|gb|EF539629.1| Zea mays subsp. parviglumis isolate t3_d globulin-1 (glb1) gene, partial cds >gi|154980349|gb|EF539630.1| Zea mays subsp. parviglumis isolate t4 globulin-1 (glb1) gene, partial cds
+Accession: EF539626
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q29537] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_CANLF
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|154980341|gb|EF539626.1|
+-----------------------------
+Definition: Zea mays subsp. parviglumis isolate g13 globulin-1 (glb1) gene, partial cds
+Accession: EF539600
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q64662] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53; Flags: Fragment;
-Accession: sp:P53_SPEBE
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|154980289|gb|EF539600.1|
+-----------------------------
+Definition: Zea mays subsp. parviglumis isolate g10 globulin-1 (glb1) gene, partial cds
+Accession: EF539597
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P79892] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53; Flags: Fragment;
-Accession: sp:P53_HORSE
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|154980283|gb|EF539597.1|
+-----------------------------
+Definition: Zea mays subsp. parviglumis isolate g4 globulin-1 (glb1) gene, partial cds
+Accession: EF539591
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q29480] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53; Flags: Fragment;
-Accession: sp:P53_EQUAS
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|154980271|gb|EF539591.1|
+-----------------------------
+Definition: Zea mays subsp. parviglumis isolate a12 globulin-1 (glb1) gene, partial cds
+Accession: EF539575
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P10360] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_CHICK
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|154980239|gb|EF539575.1|
+-----------------------------
+Definition: Zea mays cultivar sulunuo1 globulin-1 (glb1) gene, partial cds
+Accession: EF635958
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P25035] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_ONCMY
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|150250082|gb|EF635958.1|
+-----------------------------
+Definition: Zea mays cultivar line Y13 globulin-1 gene, partial sequence
+Accession: DQ356528
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q9W678] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_BARBU
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|85815898|gb|DQ356528.1|
+-----------------------------
+Definition: Zea mays cultivar line P13 globulin-1 gene, partial sequence
+Accession: DQ356517
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P07193] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_XENLA
+Error: CEFetchPApplication::proxy_stream(): Failed to understand id: gi|85815887|gb|DQ356517.1|
+-----------------------------
+Definition: Zea mays race Coroico globulin-1 gene, partial cds
+Accession: AF064215
 Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P79734] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_DANRE
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [O93379] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_ICTPU
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [O57538] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_XIPHE
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q92143] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_XIPMA
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q9XSK8] RecName: Full=Tumor protein p73; AltName: Full=p53-like transcription factor; AltName: Full=p53-related protein;
-Accession: sp:P73_CHLAE
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [O15350] RecName: Full=Tumor protein p73; AltName: Full=p53-like transcription factor; AltName: Full=p53-related protein;
-Accession: sp:P73_HUMAN
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q9JJP2] RecName: Full=Tumor protein p73 {ECO:0000250|UniProtKB:O15350}; AltName: Full=p53-like transcription factor {ECO:0000250|UniProtKB:O15350}; AltName: Full=p53-related protein {ECO:0000250|UniProtKB:O15350};
-Accession: sp:P73_MOUSE
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q9JJP6] RecName: Full=Tumor protein 63; Short=p63; AltName: Full=Keratinocyte transcription factor KET; AltName: Full=Transformation-related protein 63; Short=TP63; AltName: Full=Tumor protein p73-like; Short=p73L;
-Accession: sp:P63_RAT
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q9H3D4] RecName: Full=Tumor protein 63; Short=p63; AltName: Full=Chronic ulcerative stomatitis protein; Short=CUSP; AltName: Full=Keratinocyte transcription factor KET; AltName: Full=Transformation-related protein 63; Short=TP63; AltName: Full=Tumor protein p73-like; Short=p73L; AltName: Full=p40; AltName: Full=p51;
-Accession: sp:P63_HUMAN
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [O88898] RecName: Full=Tumor protein 63; Short=p63; AltName: Full=Transformation-related protein 63; Short=TP63; AltName: Full=Tumor protein p73-like; Short=p73L;
-Accession: sp:P63_MOUSE
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [Q9W679] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_TETMU
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [P79820] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_ORYLA
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'
---------------------------------
-Definition: [O12946] RecName: Full=Cellular tumor antigen p53; AltName: Full=Tumor suppressor p53;
-Accession: sp:P53_PLAFE
-Fasta sequence: 
-Error: CEFetchPApplication::proxy_stream(): Bad id. Must be 'accession' or 'gi' or 'gi:sat:satkey'

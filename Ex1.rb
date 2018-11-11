@@ -20,7 +20,7 @@ end
 
 puts data
 
-
+Dir.mkdir("out") unless File.exist?("out")
 (1..6).each do |frame|
   File.open("out/ej1.out#{frame}.fas", 'w+') do |f|
     seq = Bio::Sequence::NA.new(data[frame])
