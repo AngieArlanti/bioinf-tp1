@@ -21,10 +21,10 @@ File.open(outpath, 'w') do |f|
           if hit.accession.start_with?('sp:')
             # For some reason, reports on proteins like TP53 have an accession starting with 'sp:' that
             # fails EFetch.protein call
-            accession = hit.definition.slice(/\[(.*?)\w]/, 1)
+            accession = hit.definition.slice(/\[(.*?)\]/, 1)
             f.puts Bio::NCBI::REST::EFetch.protein(accession, "fasta")
           else
-            f.puts Bio::NCBI::REST::EFetch.protein(hit.accession, "fasta")
+            f.puts Bio::NCBI::REST::EFetch.protein(hit.hit_id, "fasta")
           end
         else
           f.puts Bio::NCBI::REST::EFetch.nucleotide(hit.accession, "fasta")
