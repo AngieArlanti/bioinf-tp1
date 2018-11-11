@@ -1,2 +1,4 @@
 *.pyc
+prosite/*
 .vscode
+.DS_Store
